@@ -41,11 +41,11 @@ This project builds a full **Discounted Cash Flow (DCF) model** for a standardiz
 
 | NPV Comparison | Government Take Over Time |
 |---|---|
-| ![NPV](outputs/fig2_npv_comparison.png) | ![Govt Take](outputs/fig4_govt_take.png) |
+| ![NPV](fig2_npv_comparison.png) | ![Govt Take](fig4_govt_take.png) |
 
 | Cash Flow Waterfall | Monte Carlo Distribution |
 |---|---|
-| ![Cashflow](outputs/fig3_cashflow_waterfall.png) | ![MC](outputs/fig5_monte_carlo_npv.png) |
+| ![Cashflow](fig3_cashflow_waterfall.png) | ![MC](fig5_monte_carlo_npv.png) |
 
 ---
 
